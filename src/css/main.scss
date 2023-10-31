@@ -31,7 +31,7 @@ body {
 .header {
   min-height: 769px;
   height: 100%;
-  background-image: url(/dist/img/bg.jpg);
+  background-image: url('../img/bg.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat; 
@@ -175,17 +175,17 @@ body {
   margin-right: 0;
 }
 .about__card1 {
-  background-image: url(/dist/img/weplan.png);
+  background-image: url('../img/weplan.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .about__card2 {
-  background-image: url(/dist/img/wemanage.png);
+  background-image: url('../img/wemanage.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 .about__card3 {
-  background-image: url(/dist/img/webuild.png);
+  background-image: url('../img/webuild.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -275,7 +275,7 @@ body {
 .wont-build {
   min-height: 502px;
   height: 100%;
-  background-image: url(/dist/img/bg-build.png);
+  background-image: url('../img/bg-build.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
